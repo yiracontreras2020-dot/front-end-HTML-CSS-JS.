@@ -1,0 +1,13 @@
+#footer_principal {
+  background: #aadbb6;
+  color: rgb(58, 57, 56);
+  text-align: center;
+  padding: 20px;
+  border-top: 3px solid #004d39;
+}
+
+small {
+    display: block;
+    margin-top: 10px;
+    font-size: 12px;
+}

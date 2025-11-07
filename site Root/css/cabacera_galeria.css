@@ -1,0 +1,28 @@
+#header_principal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #bcf0bc;
+  padding: 10px;       
+}
+
+#galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center
+}
+
+figure img {
+  margin: 50px;
+  border-radius: 50px;
+  width: 150px;
+  height: 150px;
+}
+
+         
+
+
+
+
+
+       
